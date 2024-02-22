@@ -8,7 +8,7 @@ Time spent: 3 hours spent in total
 
 Hello Squirrel is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 🧠🤩🎉
 
 ## Application Features
 
@@ -35,6 +35,9 @@ GIF created with ScreenToGif and Imgur
 ## Notes
 
 Introduction to Kotlin, learned how to navigate through Android Studio.
+I created an emulator and ran the project using an emulator.
+Explored and different styles, background colors, and sizing to modify the UI. 
+Looked through different palets of color and added more colors using hex color codes.
 
 ## License
 
