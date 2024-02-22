@@ -1,14 +1,19 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
+    <string name="first_name">Annamarie</string>
+    <string name="last_name">Cortes</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">
+        Hey there! 👋 I am a Computer Science student at SNHU, and I am currently working
+        in healthcare as a Clinical Assistant, transitioning into the tech field with
+        the goal of becoming a Software Developer. 🖥️👩‍💻.
+        \nNice to meet all of you!</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇 Watching k-dramas 📺</string>
+    <string name="profile_hobby_second_text">🥈 Listening to music 🎵 </string>
+    <string name="profile_hobby_third_text">🥉 Reading webtoons 📖 </string>
 </resources>
+
